@@ -1,0 +1,23 @@
+{
+  "defaultChainKey": "base-sepolia",
+  "chains": {
+    "base-sepolia": {
+      "key": "base-sepolia",
+      "id": "base-sepolia",
+      "name": "Base Sepolia",
+      "displayName": "Base Sepolia",
+      "shortName": "Base Sepolia",
+      "chainId": 84532,
+      "rpcUrl": "https://sepolia.base.org",
+      "explorerUrl": "https://sepolia.basescan.org",
+      "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+      }
+    }
+  },
+  "aliases": {
+    "basesepolia": "base-sepolia"
+  }
+}

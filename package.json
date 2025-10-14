@@ -1,0 +1,25 @@
+{
+  "name": "firemocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/przmyst/firemocks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/przmyst/firemocks/issues"
+  },
+  "homepage": "https://github.com/przmyst/firemocks#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "ethers": "^6.15.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.37.0"
+  }
+}
